@@ -1,4 +1,4 @@
-namespace LanchesMac.Models
+namespace FirstMVCProject.Models
 {
     public class Categoria
     {
@@ -7,4 +7,4 @@ namespace LanchesMac.Models
         public string Descricao { get; set; }
         public List<Lanche> Lanches { get; set; }
     }
-}
+} 

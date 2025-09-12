@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\firstmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\firstmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\firstmvcproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\firstmvcproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +46,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FirstMVCProject.csproj",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeDocumentMoniker": "FirstMVCProject\\FirstMVCProject.csproj",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeToolTip": "FirstMVCProject\\FirstMVCProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T13:06:13.771Z",
+              "DocumentIndex": 2,
+              "Title": "Lanche.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Lanche.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\Lanche.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Lanche.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\Lanche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:55:32.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Categoria.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:55:20.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Startup.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
+              "RelativeToolTip": "FirstMVCProject\\Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:52:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "FirstMVCProject\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:52:08.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstMVCProject",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
+              "RelativeDocumentMoniker": "FirstMVCProject\\FirstMVCProject.csproj",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
+              "RelativeToolTip": "FirstMVCProject\\FirstMVCProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T17:51:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Home\\Index.cshtml",
@@ -64,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-09T17:14:28.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FirstMVCProject",
               "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
               "RelativeDocumentMoniker": "FirstMVCProject\\FirstMVCProject.csproj",
@@ -89,26 +153,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
-              "RelativeDocumentMoniker": "FirstMVCProject\\Startup.cs",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
-              "RelativeToolTip": "FirstMVCProject\\Startup.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:34:33.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstMVCProject\\Program.cs",
               "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Program.cs",
               "RelativeToolTip": "FirstMVCProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T14:21:20.11Z",
               "EditorCaption": ""

@@ -1,4 +1,4 @@
-namespace LanchesMac.Models
+namespace FirstMVCProject.Models
 {
     public class Lanche
     {

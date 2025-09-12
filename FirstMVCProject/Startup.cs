@@ -1,4 +1,4 @@
-namespace LanchesMac;
+namespace  FirstMVCProject;
 
 public class Startup
 {
