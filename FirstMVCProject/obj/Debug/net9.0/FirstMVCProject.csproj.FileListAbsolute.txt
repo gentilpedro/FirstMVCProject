@@ -90,7 +90,6 @@ C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstM
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\FirstMVCProject.dll
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\refint\FirstMVCProject.dll
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\FirstMVCProject.pdb
@@ -230,3 +229,6 @@ C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstM
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\FirstMVC.03338DF8.Up2Date
+C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\bin\Debug\net9.0\Npgsql.dll
+C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pedro.rodrigues\Desktop\Pedro.Rodrigues\Projects\FirstMVCProject\FirstMVCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

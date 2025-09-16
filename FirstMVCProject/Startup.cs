@@ -1,3 +1,6 @@
+using FirstMVCProject.Context;
+using Microsoft.EntityFrameworkCore;
+
 namespace  FirstMVCProject;
 
 public class Startup
@@ -12,6 +15,9 @@ public class Startup
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddDbContext<AppDbContext>(options =>
+            options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+
         services.AddControllersWithViews();
     }
 
