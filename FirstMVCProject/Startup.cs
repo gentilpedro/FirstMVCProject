@@ -1,4 +1,6 @@
 using FirstMVCProject.Context;
+using FirstMVCProject.Repositories;
+using FirstMVCProject.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace  FirstMVCProject;
@@ -17,6 +19,9 @@ public class Startup
     {
         services.AddDbContext<AppDbContext>(options =>
             options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+
+        services.AddScoped<ILanchesRepository, LancheRepository>();
+        services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 
         services.AddControllersWithViews();
     }
