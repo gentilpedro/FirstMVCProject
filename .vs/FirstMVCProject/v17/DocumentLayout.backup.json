@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\firstmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\firstmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\migrations\\20250916144421_populandocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\migrations\\20250916144421_populandocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\firstmvcproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\firstmvcproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\pedro.rodrigues\\desktop\\pedro.rodrigues\\projects\\firstmvcproject\\firstmvcproject\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D189523-BC16-46DC-AEAA-B4481422F795}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,75 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FirstMVCProject.csproj",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeDocumentMoniker": "FirstMVCProject\\FirstMVCProject.csproj",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeToolTip": "FirstMVCProject\\FirstMVCProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T13:06:13.771Z",
+              "Title": "20250916144421_PopulandoCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Migrations\\20250916144421_PopulandoCategorias.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Migrations\\20250916144421_PopulandoCategorias.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Migrations\\20250916144421_PopulandoCategorias.cs",
+              "RelativeToolTip": "FirstMVCProject\\Migrations\\20250916144421_PopulandoCategorias.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:44:22.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250916144311_MigrationInicial.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs",
+              "RelativeToolTip": "FirstMVCProject\\Migrations\\20250916144311_MigrationInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:43:12.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FirstMVCProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T17:15:35.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstMVCProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T17:14:28.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FirstMVCProject",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeDocumentMoniker": "FirstMVCProject\\FirstMVCProject.csproj",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\FirstMVCProject.csproj",
-              "RelativeToolTip": "FirstMVCProject\\FirstMVCProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-09T17:12:28.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
               "RelativeDocumentMoniker": "FirstMVCProject\\Startup.cs",
               "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Startup.cs",
               "RelativeToolTip": "FirstMVCProject\\Startup.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA4AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:34:33.875Z"
+              "WhenOpened": "2025-09-16T14:37:02.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Program.cs",
-              "RelativeDocumentMoniker": "FirstMVCProject\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Program.cs",
-              "RelativeToolTip": "FirstMVCProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\Models\\Categoria.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:21:20.11Z"
+              "WhenOpened": "2025-09-16T14:20:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstMVCProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro.rodrigues\\Desktop\\Pedro.Rodrigues\\Projects\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeToolTip": "FirstMVCProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T14:00:09.942Z",
+              "EditorCaption": ""
             }
           ]
         }

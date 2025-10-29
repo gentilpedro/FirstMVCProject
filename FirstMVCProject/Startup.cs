@@ -1,4 +1,9 @@
-namespace LanchesMac;
+using FirstMVCProject.Context;
+using FirstMVCProject.Repositories;
+using FirstMVCProject.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
+namespace  FirstMVCProject;
 
 public class Startup
 {
@@ -12,6 +17,12 @@ public class Startup
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddDbContext<AppDbContext>(options =>
+            options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+
+        services.AddScoped<ILanchesRepository, LancheRepository>();
+        services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+
         services.AddControllersWithViews();
     }
 
